@@ -1,0 +1,13 @@
+
+.bg{
+    background-color: #044556;
+}
+.imgsize{
+    width: 40%;
+}
+
+@media (min-width: 768px) {
+    .next-input{
+        width: 50%;
+    }
+}
